@@ -9,7 +9,7 @@ Clover for MSI GP72MVR-7RFX
 - WiFi
 - Bluetooth
 - Sleep & Wake Up
-- Everything that relative to Bluetooth and WiFi
+- Everything relatives to Bluetooth and WiFi (Airdrop, Handoff, etc.)
 - Nvidia GTX 1060 (No Webdrive for Catalina)
 
 ### Work:
